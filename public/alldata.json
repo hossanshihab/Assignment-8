@@ -1,0 +1,181 @@
+
+
+[
+    {
+      "product_id": "1",
+      "product_title": "Apple MacBook Air M1",
+      "product_image": "https://sm.ign.com/ign_ap/gallery/a/apple-macb/apple-macbook-air-m1-review_dq4x.jpg",
+      "category": "Laptops",
+      "price": 999.99,
+      "description": "Apple MacBook Air with M1 chip, 13-inch Retina display, 8GB RAM, and 256GB SSD.",
+      "specification": [
+        "Apple M1 chip",
+        "13.3-inch Retina display",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "2",
+      "product_title": "Apple iPhone 15 Pro",
+      "product_image": "https://sm.mashable.com/mashable_in/review/a/apple-ipho/apple-iphone-15-pro-and-pro-max-review-close-to-perfection_y2vm.jpg",
+      "category": "Smartphones",
+      "price": 1299.99,
+      "description": "iPhone 15 Pro with A17 Bionic chip, 6.1-inch Super Retina XDR display, and 128GB storage.",
+      "specification": [
+        "A17 Bionic chip",
+        "6.1-inch Super Retina XDR display",
+        "128GB storage",
+        "5G enabled"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "3",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://images.samsung.com/bd/smartphones/galaxy-s23-ultra/images/galaxy-s23-ultra-highlights-kv.jpg",
+      "category": "Smartphones",
+      "price": 1199.99,
+      "description": "Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2, 6.8-inch AMOLED display, and 256GB storage.",
+      "specification": [
+        "Snapdragon 8 Gen 2",
+        "6.8-inch AMOLED display",
+        "256GB storage",
+        "108MP main camera"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "4",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://www.dell.com/wp-uploads/2022/06/XPS-13-2-in-1-on-desk-1280x800-1.jpg",
+      "category": "Laptops",
+      "price": 1099.99,
+      "description": "Dell XPS 13 with Intel Core i7, 13.4-inch FHD+ display, 16GB RAM, and 512GB SSD.",
+      "specification": [
+        "Intel Core i7",
+        "13.4-inch FHD+ display",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "5",
+      "product_title": "Samsung Galaxy Book 3",
+      "product_image": "https://cdn.mos.cms.futurecdn.net/gsKmGtaACV3MARc498sY4g.jpg",
+      "category": "Laptops",
+      "price": 849.99,
+      "description": "Samsung Galaxy Book 3 with Intel Core i5, 15.6-inch display, 8GB RAM, and 256GB SSD.",
+      "specification": [
+        "Intel Core i5",
+        "15.6-inch display",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "6",
+      "product_title": "Apple MacBook Pro 14-inch",
+      "product_image": "https://images.hothardware.com/contentimages/article/3292/content/small_angle-2-apple-macbook-pro-14-m2-pro-2023.jpg",
+      "category": "Laptops",
+      "price": 1999.99,
+      "description": "MacBook Pro 14-inch with M1 Pro chip, 16GB RAM, and 512GB SSD.",
+      "specification": [
+        "Apple M1 Pro chip",
+        "14-inch Retina display",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "7",
+      "product_title": "iPhone 14",
+      "product_image": "https://cdn.mos.cms.futurecdn.net/gquXp6ztA4qHJbPAjqUEem.jpg",
+      "category": "Smartphones",
+      "price": 899.99,
+      "description": "iPhone 14 with A15 Bionic chip, 6.1-inch display, and 128GB storage.",
+      "specification": [
+        "A15 Bionic chip",
+        "6.1-inch display",
+        "128GB storage",
+        "Dual-camera system"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "8",
+      "product_title": "Samsung Galaxy Z Fold 5",
+      "product_image": "https://samlover.com/wp-content/uploads/2023/07/samsung-Galaxy-Z-Fold-5-and-Z-Flip-5.webp",
+      "category": "Smartphones",
+      "price": 1799.99,
+      "description": "Samsung Galaxy Z Fold 5 with foldable 7.6-inch AMOLED display and 512GB storage.",
+      "specification": [
+        "Foldable 7.6-inch AMOLED display",
+        "Snapdragon 8+ Gen 2",
+        "512GB storage",
+        "12GB RAM"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "9",
+      "product_title": "Samsung Galaxy Tab S9",
+      "product_image": "https://assets.goodereader.com/blog/uploads/images/2023/06/13030356/Samsung-Galaxy-Tab-S9.jpg",
+      "category": "Tablets",
+      "price": 799.99,
+      "description": "Samsung Galaxy Tab S9 with 11-inch AMOLED display and 128GB storage.",
+      "specification": [
+        "11-inch AMOLED display",
+        "Snapdragon 8 Gen 2",
+        "128GB storage",
+        "S Pen included"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "10",
+      "product_title": "Wireless Earbuds",
+      "product_image": "https://hips.hearstapps.com/hmg-prod/images/ghi-wirelessearbuds-647637a98481e.png",
+      "category": "Accessories",
+      "price": 49.99,
+      "description": "Compact wireless earbuds with touch controls and noise isolation.",
+      "specification": [
+        "Bluetooth 5.2",
+        "Noise isolation",
+        "4-hour battery life",
+        "Charging case"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "11",
+      "product_title": "Portable Power Bank",
+      "product_image": "https://cdn.mos.cms.futurecdn.net/9appbN59G6BnX9SKL3ZR7M.jpg",
+      "category": "Accessories",
+      "price": 25.99,
+      "description": "10,000mAh portable power bank with fast charging and dual USB ports.",
+      "specification": [
+        "10,000mAh capacity",
+        "Fast charging",
+        "Dual USB ports",
+        "LED battery indicator"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+  
